@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/", (req, res) => {
     return res.send({
-        msg: "Hello from back-end api applicationaklsjdlakjsdlkasdjkljasd"
+        msg: "Hello from back-end api application"
     });
 });
 
